@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d332e3e-632d-4e1d-bed7-3065d0275218" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1doumuHpcIfyBbtQ4rsb1KUS4h5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d332e3e-632d-4e1d-bed7-3065d0275218" name="Default Changelist" comment="" />
+      <created>1593103928714</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593103928714</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3294" y="-519" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593105076710">
+      <screen x="1920" y="-688" width="2560" height="1030" />
+    </state>
+    <state x="3294" y="-519" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.-688.2560.1030/0.0.1536.824@1920.-688.2560.1030" timestamp="1593105076710" />
+    <state x="3620" y="-419" key="FileChooserDialogImpl" timestamp="1593104782777">
+      <screen x="1920" y="-688" width="2560" height="1030" />
+    </state>
+    <state x="3620" y="-419" key="FileChooserDialogImpl/1920.-688.2560.1030/0.0.1536.824@1920.-688.2560.1030" timestamp="1593104782777" />
+    <state x="3341" y="-529" key="SettingsEditor" timestamp="1593104076823">
+      <screen x="1920" y="-688" width="2560" height="1030" />
+    </state>
+    <state x="3341" y="-529" key="SettingsEditor/1920.-688.2560.1030/0.0.1536.824@1920.-688.2560.1030" timestamp="1593104076823" />
+  </component>
+</project>
